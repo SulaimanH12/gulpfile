@@ -1,5 +1,6 @@
 {
-  "name": "mainland-consultants", // This part can be changed to whatever your project name is.
+   // This part can be changed to whatever your project name is.
+  "name": "mainland-consultants",
   "version": "1.0.0",
   "description": "",
   "dependencies": {
@@ -18,7 +19,8 @@
     "gulp-jshint": "2.1.0",
     "browser-sync": "2.23.5"
   },
-  "main": "index.js", // Changed to whatever your JS file name is
+  // Changed to whatever your JS file name is
+  "main": "index.js", 
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
