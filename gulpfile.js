@@ -42,7 +42,7 @@ var onError = function(err) {
 
 // ----------------------------------------------------
 
-// Sass to Css
+// SASS to CSS
 gulp.task('sass', function() {
     return gulp.src(src.sass)
         .pipe(plumber({
